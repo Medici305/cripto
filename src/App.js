@@ -1,12 +1,12 @@
 import React from 'react';
-import Nav from './components/Nav';
+import Welcome from './pages/Welcome';
 import GlobalStyle from './components/GlobalStyles';
 
 function App() {
   return (
     <>
       <GlobalStyle />
-      <Nav />
+      <Welcome />
     </>
   );
 }

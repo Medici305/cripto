@@ -11,10 +11,11 @@ const GlobalStyle = createGlobalStyle`
     body {
         transition: all .5s ease-in-out;
         font-family: 'Lato';
+        color: #fff;
     }
 
     h1 {
-        font-family: 'Cookie', sans-serif;
+        font-family: 'Yusei Magic', sans-serif;
         font-size: 3rem;
     }
 `
